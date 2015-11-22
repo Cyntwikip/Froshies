@@ -1,0 +1,51 @@
+
+
+#bg-image {
+	background-image: url('../img/background-blue.png');
+}
+
+.container {
+	
+	width: 90%;
+	margin: auto;
+	height: auto;
+}
+
+#avatar {
+	width: 50%;	
+	padding: auto;
+	border-radius; 50px;
+}
+
+h4 {
+	text-align: center;
+}
+
+#list {
+	background-color: rgba(0,0,0,0.56);
+	min-height: 1000px;
+}
+
+#details {
+	background-color: rgba(0,0,0,0.77);
+	min-height: 1000px;
+	padding: 2em;
+}
+
+.list-group a {
+	font-family: Roboto-Light;
+	color: white;
+	margin: 2em 2em;
+	font-size: 1.5em;
+	padding: 4em 0em;
+}
+
+.accept-action {
+	background-color: rgb(152, 203, 74);
+}
+
+.ignore-action {
+	background-color: rgb(150, 150, 150);
+}
+
+

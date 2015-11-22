@@ -1,0 +1,52 @@
+
+#bg-image {
+	background-image: url('../img/background-blue.png');
+}
+
+.container {
+	
+	width: 90%;
+	margin: auto;
+	height: auto;
+}
+
+#avatar {
+	display: block;
+	width: 50%;	
+	padding: auto;
+	border-radius; 50px;
+}
+
+h3, h4 {
+	text-align: center;
+	color: black;
+}
+
+#list {
+	background-color: rgba(0,0,0,0.56);
+	min-height: 1000px;
+}
+
+#details {
+	background-color: rgba(0,0,0,0.77);
+	min-height: 1000px;
+	padding: 2em;
+}
+
+.list-group-item {
+	text-align: center;
+}
+/*
+.container img {
+	margin: auto;
+}
+*/
+
+.panel-heading  img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+

@@ -1,0 +1,123 @@
+
+
+#bg-image {
+	background-image: url('../img/background-blue.png');
+}
+
+.container {
+	
+	width: 90%;
+	margin: auto;
+	height: auto;
+}
+
+#avatar {
+	display: block;
+	padding: 0em;
+	margin: auto;
+	width: 50%;	
+	border-radius; 50px;
+}
+
+h3, h4 {
+	text-align: center;
+	color: black;
+}
+
+.left-part {
+	background-color: rgba(0,0,0,0.56);
+	min-height: 1000px;
+	padding: 2em 2em;
+	margin-bottom: 2em;
+}
+
+.mid-part, .right-part {
+	background-color: rgba(0,0,0,0.77);
+	min-height: 1000px;
+	padding: 4em;
+}
+
+.list-group-item {
+	margin-left: 2em;
+	margin-right: 2em;
+	/*
+	text-align: center;
+	*/
+}
+
+#gmaps {
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("../img/map.png");
+	background-size: 100% auto;
+	margin-bottom: 4em;
+}
+
+.text1 {
+	color: #98cb4a;
+}
+
+.btn1 {	
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 1em;
+  background-color: rgba(255, 0, 0, 0);
+  border: 0.1em solid rgba(255, 0, 0, 0.43);
+  border-radius: 10px;
+  font-size: 1em;
+  color: rgb(255, 0, 0);
+  height: 6em;
+  width: 15em;
+}
+
+.btn1:hover {	
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 1em;
+  background-color: rgba(152, 203, 74, 0.43);
+  border: 0.1em solid rgba(152, 203, 74, 0.43);
+  border-radius: 10px;
+  font-size: 1em;
+  color: rgb(152, 203, 74);
+  height: 6em;
+  width: 15em;
+}
+
+.btn2 {	
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 1em;
+  background-color: rgba(255, 0, 0, 0);
+  border: 0.1em solid rgba(255, 0, 0, 0.43);
+  border-radius: 10px;
+  font-size: 1.2em;
+  color: rgb(255, 0, 0);
+  height: 6em;
+  width: 18em;
+}
+
+.btn2:hover {	
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 1em;
+  background-color: rgba(152, 203, 74, 0.43);
+  border: 0.1em solid rgba(152, 203, 74, 0.43);
+  border-radius: 10px;
+  font-size: 1.2em;
+  color: rgb(152, 203, 74);
+  height: 6em;
+  width: 18em;
+}
+
+.list-group a {
+	font-family: Roboto-Light;
+	color: white;
+	margin: 2em 2em;
+	font-size: 1.5em;
+	padding: 4em 0em;
+}
+
