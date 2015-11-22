@@ -233,6 +233,7 @@ and open the template in the editor.
                 <div class="row">
         			<img src="img/1-about-1.jpg">
         			<img src="img/1-about-2.jpg">
+					<img src="img/1-functions-1.jpg">
                 </div>
             </div>
         </div>
